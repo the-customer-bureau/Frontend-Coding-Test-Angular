@@ -3,7 +3,7 @@
 Clone this repo, run `npm install` and start the project using `ng serve`.
 The instructions for completing the task can be found in the site that will launch.
 
-Below are the default instructions on how to set up a Nuxt3 project.
+Below are the default instructions on how to set up an Angular project.
 
 To submit, create a PR with your finished work at least one day before your Discovery Day session.
 
